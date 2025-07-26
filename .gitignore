@@ -1,0 +1,18 @@
+# Mac system
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Intermediate results
+*.npy
+*.log
+*.tmp
+
+# Raw image data (optional)
+raws/
+
+# Results (optional, if re-generable)
+results/
+
